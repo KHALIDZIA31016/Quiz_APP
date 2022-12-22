@@ -48,7 +48,7 @@ class QuizInterface:
         """To display title"""
 
         # Title
-        title = Label(self.window, text="FAWAD ALI & SHAZAIB AHMED ",
+        title = Label(self.window, text="KHALID ZIA *0317-5780828 (Whatsapp)* ",
                       width=50, bg="green", fg="white", font=("ariel", 20, "bold"))
 
         # place of the title
